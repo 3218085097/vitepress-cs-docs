@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "CS自学指南"
-  text: "计算机科学自学之路"
+  name: "小辉CS指南"
+  text: "计算机科学自学之路，内容待重写"
   tagline: 一份全面的计算机科学自学指南，包含学习路线、工具推荐、经典书籍和高质量课程资源
   actions:
     - theme: brand
