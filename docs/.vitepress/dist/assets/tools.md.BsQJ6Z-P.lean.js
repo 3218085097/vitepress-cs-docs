@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,aj as l}from"./chunks/framework.CSCBGoZg.js";const g=JSON.parse('{"title":"必学工具","description":"","frontmatter":{},"headers":[],"relativePath":"tools.md","filePath":"tools.md"}'),e={name:"tools.md"};function h(p,s,t,r,k,d){return n(),a("div",null,[...s[0]||(s[0]=[l("",118)])])}const c=i(e,[["render",h]]);export{g as __pageData,c as default};

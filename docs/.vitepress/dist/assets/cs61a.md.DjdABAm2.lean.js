@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,aj as l}from"./chunks/framework.CSCBGoZg.js";const E=JSON.parse('{"title":"CS61A 入门：梦开始的地方","description":"","frontmatter":{},"headers":[],"relativePath":"cs61a.md","filePath":"cs61a.md"}'),e={name:"cs61a.md"};function h(p,s,t,r,k,d){return n(),a("div",null,[...s[0]||(s[0]=[l("",84)])])}const o=i(e,[["render",h]]);export{E as __pageData,o as default};
