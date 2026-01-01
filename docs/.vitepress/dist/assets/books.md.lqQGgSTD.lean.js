@@ -1,1 +1,0 @@
-import{_ as l,c as i,o as r,aj as e}from"./chunks/framework.CSCBGoZg.js";const g=JSON.parse('{"title":"经典书籍推荐","description":"","frontmatter":{},"headers":[],"relativePath":"books.md","filePath":"books.md"}'),t={name:"books.md"};function n(o,a,s,h,p,d){return r(),i("div",null,[...a[0]||(a[0]=[e("",145)])])}const b=l(t,[["render",n]]);export{g as __pageData,b as default};

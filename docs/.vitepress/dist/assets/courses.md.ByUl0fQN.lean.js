@@ -1,1 +1,0 @@
-import{_ as r,c as a,o as e,aj as i}from"./chunks/framework.CSCBGoZg.js";const c=JSON.parse('{"title":"课程资源","description":"","frontmatter":{},"headers":[],"relativePath":"courses.md","filePath":"courses.md"}'),t={name:"courses.md"};function n(o,l,s,h,p,g){return e(),a("div",null,[...l[0]||(l[0]=[i("",147)])])}const d=r(t,[["render",n]]);export{c as __pageData,d as default};

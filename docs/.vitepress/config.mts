@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "CS自学指南",
+  title: "CS小辉指南（内容待后续重写）",
   description: "一份全面的计算机科学自学指南，包含学习路线、工具推荐、经典书籍和高质量课程资源",
   lang: 'zh-CN',
   
@@ -98,14 +98,14 @@ export default defineConfig({
     
     // 编辑链接
     editLink: {
-      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+      pattern: 'https://github.com/3218085097/vitepress-cs-docs/tree/master/docs/:path',
       text: '在 GitHub 上编辑此页面'
     },
     
     // 页脚
     footer: {
       message: '基于 MIT 许可发布',
-      copyright: '版权所有 © 2024-present CS自学指南'
+      copyright: '版权所有 © 2026-present CS小辉指南'
     },
     
     // 深色模式切换
