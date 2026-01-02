@@ -48,7 +48,7 @@ export default defineConfig({
 
             {
                 text: '计算机基础',
-                collapsed: true,
+                collapsed: false,
                 items: [
                     {
                         text: '计算机网络',
