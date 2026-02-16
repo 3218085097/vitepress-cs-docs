@@ -23,6 +23,7 @@ export default defineConfig({
         }
     },
 
+    // @ts-ignore
     // 代码高亮配置
     highlight: {
         theme: {
@@ -67,9 +68,7 @@ export default defineConfig({
                             {
                                 text: '网络层',
                                 collapsed: true,
-                                items: [
-                                    {text: 'TCP协议和UDP协议', link: '/tcp-udp'},
-                                ]
+                                items: []
                             },
                             {
                                 text: '传输层',
@@ -79,9 +78,7 @@ export default defineConfig({
                             {
                                 text: '应用层',
                                 collapsed: true,
-                                items: [
-                                    {text: 'HTTP协议', link: '/http'},
-                                ]
+                                items: []
                             },
                         ]
                     },
@@ -104,21 +101,54 @@ export default defineConfig({
             },
 
             {
-                text: '主流技术',
-                collapsed: true,
+                text: '就业方向',
+                collapsed: false,
                 items: []
             },
 
             {
                 text: '架构思维',
-                collapsed: true,
+                collapsed: false,
                 items: []
             },
 
             {
-                text: '沉淀',
-                collapsed: true,
-                items: []
+                text: '自我提升',
+                collapsed: false,
+                items: [
+                    {
+                        text: '竞赛指南',
+                        collapsed: true,
+                        items: []
+                    },
+                    {
+                        text: '考证指南',
+                        collapsed: true,
+                        items: [
+                            {
+                                text: '教资指南',
+                                collapsed: true,
+                                items: []
+                            },
+                            {
+                                text: '软考指南',
+                                collapsed: true,
+                                items: []
+                            },
+                        ]
+                    },
+                    {
+                        text: '副业指南',
+                        collapsed: true,
+                        items: [
+                            {
+                                text: '金融基础',
+                                collapsed: true,
+                                items: []
+                            },
+                        ]
+                    },
+                ]
             },
         ],
 
