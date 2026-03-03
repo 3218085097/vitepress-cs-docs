@@ -117,6 +117,13 @@ export default defineConfig({
                 collapsed: false,
                 items: [
                     {
+                        text: '努力心法',
+                        collapsed: true,
+                        items: [
+                            {text: '如何看待努力', link: '/how-to-see-efforts.md'},
+                        ]
+                    },
+                    {
                         text: '竞赛指南',
                         collapsed: true,
                         items: []
