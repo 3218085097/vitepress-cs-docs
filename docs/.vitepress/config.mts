@@ -122,6 +122,7 @@ export default defineConfig({
                         items: [
                             {text: '如何看待努力', link: '/how-to-see-efforts.md'},
                             {text: '应试心法', link: '/exam-taking mindset.md'},
+                            {text: '焦虑自救指南', link: '/save-youserlf-guide.md'},
                         ]
                     },
                     {
