@@ -25,4 +25,4 @@
   
 加油！每天都是充满美好期待的一天。
   
-![logo](public/bz.jpg)
+![logo](../public/bz.jpg)

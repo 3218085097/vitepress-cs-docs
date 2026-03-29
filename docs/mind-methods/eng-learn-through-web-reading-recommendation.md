@@ -23,4 +23,4 @@
 - **大厂官方研究**：**Google AI Blog**、**OpenAI Blog**、**Cloudflare Blog**（关注特定领域的前沿更新）。
 
 然后我目前注册了dev.to去尝试了一下，感觉还不错，以下是截图，感觉氛围和质量都还可以。后续长期体验后再做分享！  
-![logo](public/dev-to.png)
+![logo](../public/dev-to.png)

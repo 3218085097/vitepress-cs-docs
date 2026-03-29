@@ -120,21 +120,21 @@ export default defineConfig({
                         text: '努力心法',
                         collapsed: true,
                         items: [
-                            {text: '如何看待努力', link: '/how-to-see-efforts.md'},
-                            {text: '应试心法', link: '/exam-taking mindset.md'},
-                            {text: '英语素养提升', link: '/eng-learn-through-web-reading-recommendation.md'},
+                            {text: '如何看待努力', link: '/mind-methods/how-to-see-efforts.md'},
+                            {text: '应试心法', link: '/mind-methods/exam-taking mindset.md'},
+                            {text: '英语素养提升', link: '/mind-methods/eng-learn-through-web-reading-recommendation.md'},
                         ]
                     },
                     {
                         text: '有感而发',
                         collapsed: true,
                         items: [
-                            {text: '2026.3.24', link: '/daily-sudden-realization-2026.3.24.md'},
-                            {text: '2026.3.25', link: '/daily-sudden-realization-2026.3.25.md'},
-                            {text: '2026.3.27', link: '/daily-sudden-realization-2026.3.27.md'},
-                            {text: '2026.3.28', link: '/daily-sudden-realization-2026.3.28.md'},
-                            {text: '2026.3.29', link: '/daily-sudden-realization-2026.3.29.md'},
-                            {text: '2026.3.29-2', link: '/daily-sudden-realization-2026.3.29-2.md'},
+                            {text: '2026.3.24', link: '/daily-realization/daily-sudden-realization-2026.3.24.md'},
+                            {text: '2026.3.25', link: '/daily-realization/daily-sudden-realization-2026.3.25.md'},
+                            {text: '2026.3.27', link: '/daily-realization/daily-sudden-realization-2026.3.27.md'},
+                            {text: '2026.3.28', link: '/daily-realization/daily-sudden-realization-2026.3.28.md'},
+                            {text: '2026.3.29', link: '/daily-realization/daily-sudden-realization-2026.3.29.md'},
+                            {text: '2026.3.29-2', link: '/daily-realization/daily-sudden-realization-2026.3.29-2.md'},
                         ]
                     },
                     {
