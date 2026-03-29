@@ -122,6 +122,7 @@ export default defineConfig({
                         items: [
                             {text: '如何看待努力', link: '/how-to-see-efforts.md'},
                             {text: '应试心法', link: '/exam-taking mindset.md'},
+                            {text: '英语素养提升', link: '/eng-learn-through-web-reading-recommendation.md'},
                         ]
                     },
                     {
@@ -132,6 +133,7 @@ export default defineConfig({
                             {text: '2026.3.25', link: '/daily-sudden-realization-2026.3.25.md'},
                             {text: '2026.3.27', link: '/daily-sudden-realization-2026.3.27.md'},
                             {text: '2026.3.28', link: '/daily-sudden-realization-2026.3.28.md'},
+                            {text: '2026.3.29', link: '/daily-sudden-realization-2026.3.29.md'},
                         ]
                     },
                     {
