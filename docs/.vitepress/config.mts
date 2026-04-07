@@ -123,6 +123,7 @@ export default defineConfig({
                             {text: '如何看待努力', link: '/mind-methods/how-to-see-efforts.md'},
                             {text: '应试心法', link: '/mind-methods/exam-taking mindset.md'},
                             {text: '英语素养提升', link: '/mind-methods/eng-learn-through-web-reading-recommendation.md'},
+                            {text: 'comfort first', link: '/mind-methods/comfort-first.md'},
                         ]
                     },
                     {
