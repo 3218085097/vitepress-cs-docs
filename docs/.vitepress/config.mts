@@ -142,6 +142,7 @@ export default defineConfig({
                             {text: '2026.4.3', link: '/daily-realization/daily-sudden-realization-2026.4.3.md'},
                             {text: '2026.4.6', link: '/daily-realization/daily-sudden-realization-2026.4.6.md'},
                             {text: '2026.4.7', link: '/daily-realization/daily-sudden-realization-2026.4.7.md'},
+                            {text: '2026.4.12', link: '/daily-realization/daily-sudden-realization-2026.4.12.md'},
                         ]
                     },
                     {
